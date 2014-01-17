@@ -1,0 +1,9 @@
+---
+Name: restfulcontrollerroutes
+After:
+  - '#rootroutes'
+  - '#modelascontrollerroutes'
+---
+Director:
+  rules:
+   'RestfulController': 'Sheerwater\RestfulController\RestfulController'

@@ -1,0 +1,16 @@
+Sheerwater\RestfulController\Tests\TestDataObject:
+  item1:
+    Title: 'item1'
+    Subtitle: 'subtitle1'
+  item2:
+    Title: 'item2'
+    Subtitle: 'subtitle1'
+  item3:
+    Title: 'item3'
+    Subtitle: 'subtitle1'
+  item4:
+    Title: 'item4'
+    Subtitle: 'subtitle1'
+  item5:
+    Title: 'item5'
+    Subtitle: 'subtitle1'
